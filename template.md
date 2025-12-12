@@ -2,7 +2,7 @@
 
 - ⭐️ : Success (one shot)
 - 🔷 : Success after undo
-- ❌ : Failure
+- ❌️ : Failure
 
 ## Level 1 - Beginner
 
